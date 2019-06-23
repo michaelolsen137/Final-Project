@@ -1,4 +1,4 @@
-#Week 12 June 22nd, 2019
+# Week 12 June 22nd, 2019
 No bugs that I can find are present in the current code. 
 
 List of TODOs:
