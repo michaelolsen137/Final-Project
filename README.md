@@ -1,3 +1,16 @@
+#Week 12 June 22nd, 2019
+No bugs that I can find are present in the current code. 
+
+List of TODOs:
+
+1. update CSS to display estimates in boxes
+2. add a tax total
+3. add an effective tax rate (total tax burden)
+4. implement Google Sheets add-on
+
+
+
+
 # Week 10 June 12th,2019
 
 My API call seems to be functioning properly. I need to make the CSS prettier and more user-friendly. Right now, I am trying to narrow the focus of my program's purpose. Should it be soley an income tax calculator, or should I incorporate some new functionality such as a payroll tax estimator? The large-scale application I want for this is that it can be used as a budgeting tool where people can project out their gross and net earnings over the course of the year and track their tax withholdings. This would require me to add in a W-4 form that collects the number of allowances a person is claiming. 
